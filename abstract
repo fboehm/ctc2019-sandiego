@@ -1,0 +1,19 @@
+We present a study into the complementary nature of mediation analysis
+and our recently developed pleiotropy test for multiparental populations.
+While our test and mediation analysis ask distinct scientific questions,
+we argue that our pleiotropy test is especially useful when mediation analysis
+fails to identify an intermediate.
+Our study uses publicly available genome-wide SNP and gene expression data
+from 378 Diversity Outbred mice. Keller et al. (2018) identified five expression
+trait hotspots in pancreatic islet cells. 
+147 nonlocal expression traits mapped to a 4-Mb
+expression trait hotspot on Chromosome 2. Keller et al. (2018) presented evidence 
+for mediation by Hnf4a expression levels of 88 of 147 traits.
+
+We share our custom R code in a publicly accessible Github repository. We also 
+share our pleiotropy test software as a R package on Github.
+We invite users to explore our Github repositories via Binder.
+
+References
+
+Keller et al. 2018
